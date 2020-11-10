@@ -1,0 +1,68 @@
+09/11/2020 22:39:10 devpinoyLogger Hello
+09/11/2020 22:39:10 devpinoyLogger Properties loaded. Starting testing
+09/11/2020 22:39:10 devpinoyLogger Intialize Suite xlsx
+09/11/2020 22:39:12 devpinoyLogger Test Cases - LIBRARY -- Y
+09/11/2020 22:39:12 devpinoyLogger ******Executing the Suite******Test Cases - LIBRARY
+09/11/2020 22:39:12 devpinoyLogger Login -- Y
+09/11/2020 22:39:12 devpinoyLogger Executing the test case -> Login
+09/11/2020 22:39:12 devpinoyLogger Iteration number 1
+09/11/2020 22:39:12 devpinoyLogger openBrowser
+09/11/2020 22:39:12 devpinoyLogger Opening browser
+09/11/2020 22:39:19 devpinoyLogger PASS
+09/11/2020 22:39:20 devpinoyLogger navigate
+09/11/2020 22:39:20 devpinoyLogger Navigating to URL
+09/11/2020 22:39:26 devpinoyLogger PASS
+09/11/2020 22:39:26 devpinoyLogger clickLink
+09/11/2020 22:39:26 devpinoyLogger Clicking on link 
+09/11/2020 22:39:32 devpinoyLogger PASS
+09/11/2020 22:39:32 devpinoyLogger writeInInput
+09/11/2020 22:39:32 devpinoyLogger Writing in text box
+09/11/2020 22:39:32 devpinoyLogger PASS
+09/11/2020 22:39:33 devpinoyLogger writeInInput
+09/11/2020 22:39:33 devpinoyLogger Writing in text box
+09/11/2020 22:39:33 devpinoyLogger PASS
+09/11/2020 22:39:33 devpinoyLogger clickButton
+09/11/2020 22:39:33 devpinoyLogger Clicking on Button
+09/11/2020 22:39:33 devpinoyLogger PASS
+09/11/2020 22:39:33 devpinoyLogger exist
+09/11/2020 22:39:33 devpinoyLogger Checking existance of element
+09/11/2020 22:39:38 devpinoyLogger PASS
+09/11/2020 22:39:38 devpinoyLogger closeBrowser
+09/11/2020 22:39:38 devpinoyLogger Closing the browser
+09/11/2020 22:39:40 devpinoyLogger PASS
+09/11/2020 22:39:42 devpinoyLogger Logout -- Y
+09/11/2020 22:39:42 devpinoyLogger Executing the test case -> Logout
+09/11/2020 22:39:42 devpinoyLogger Iteration number 1
+09/11/2020 22:39:42 devpinoyLogger openBrowser
+09/11/2020 22:39:42 devpinoyLogger Opening browser
+09/11/2020 22:39:45 devpinoyLogger PASS
+09/11/2020 22:39:45 devpinoyLogger navigate
+09/11/2020 22:39:45 devpinoyLogger Navigating to URL
+09/11/2020 22:39:49 devpinoyLogger PASS
+09/11/2020 22:39:49 devpinoyLogger clickLink
+09/11/2020 22:39:49 devpinoyLogger Clicking on link 
+09/11/2020 22:39:52 devpinoyLogger PASS
+09/11/2020 22:39:52 devpinoyLogger writeInInput
+09/11/2020 22:39:52 devpinoyLogger Writing in text box
+09/11/2020 22:39:53 devpinoyLogger PASS
+09/11/2020 22:39:53 devpinoyLogger writeInInput
+09/11/2020 22:39:53 devpinoyLogger Writing in text box
+09/11/2020 22:39:53 devpinoyLogger PASS
+09/11/2020 22:39:53 devpinoyLogger clickButton
+09/11/2020 22:39:53 devpinoyLogger Clicking on Button
+09/11/2020 22:39:53 devpinoyLogger PASS
+09/11/2020 22:39:54 devpinoyLogger exist
+09/11/2020 22:39:54 devpinoyLogger Checking existance of element
+09/11/2020 22:39:57 devpinoyLogger PASS
+09/11/2020 22:39:58 devpinoyLogger clickLink
+09/11/2020 22:39:58 devpinoyLogger Clicking on link 
+09/11/2020 22:39:58 devpinoyLogger PASS
+09/11/2020 22:39:58 devpinoyLogger clickLink
+09/11/2020 22:39:58 devpinoyLogger Clicking on link 
+09/11/2020 22:39:59 devpinoyLogger PASS
+09/11/2020 22:40:00 devpinoyLogger exist
+09/11/2020 22:40:00 devpinoyLogger Checking existance of element
+09/11/2020 22:40:00 devpinoyLogger PASS
+09/11/2020 22:40:00 devpinoyLogger closeBrowser
+09/11/2020 22:40:00 devpinoyLogger Closing the browser
+09/11/2020 22:40:01 devpinoyLogger PASS

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/selenium-java-3.14.0/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/Usman/SELENIUM/jar - Core_Hybrid_WebDriver/org.apache.commons.io.jar" sourcepath="C:/Program Files/Java/jdk1.8.0_51/src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

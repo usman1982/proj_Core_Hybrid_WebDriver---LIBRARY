@@ -1,0 +1,43 @@
+12/11/2018 20:22:01 devpinoyLogger Hello
+12/11/2018 20:22:01 devpinoyLogger Properties loaded. Starting testing
+12/11/2018 20:22:01 devpinoyLogger Intialize Suite xlsx
+12/11/2018 20:22:02 devpinoyLogger Check Items -- N
+12/11/2018 20:22:02 devpinoyLogger Search Suite -- Y
+12/11/2018 20:22:02 devpinoyLogger ******Executing the Suite******Search Suite
+12/11/2018 20:22:02 devpinoyLogger First3Results -- Y
+12/11/2018 20:22:02 devpinoyLogger Executing the test case -> First3Results
+12/11/2018 20:22:02 devpinoyLogger Iteration number 1
+12/11/2018 20:22:02 devpinoyLogger openBrowser
+12/11/2018 20:22:02 devpinoyLogger Opening browser
+12/11/2018 20:22:08 devpinoyLogger PASS
+12/11/2018 20:22:08 devpinoyLogger navigate
+12/11/2018 20:22:08 devpinoyLogger Navigating to URL
+12/11/2018 20:22:15 devpinoyLogger PASS
+12/11/2018 20:22:15 devpinoyLogger verifyTitle
+12/11/2018 20:22:15 devpinoyLogger Verifying title
+12/11/2018 20:22:15 devpinoyLogger PASS
+12/11/2018 20:22:16 devpinoyLogger click
+12/11/2018 20:22:16 devpinoyLogger Clicking on any element
+12/11/2018 20:22:16 devpinoyLogger PASS
+12/11/2018 20:22:16 devpinoyLogger writeInInput
+12/11/2018 20:22:16 devpinoyLogger Writing in text box
+12/11/2018 20:22:16 devpinoyLogger PASS
+12/11/2018 20:22:17 devpinoyLogger clickButton
+12/11/2018 20:22:17 devpinoyLogger Clicking on Button
+12/11/2018 20:22:17 devpinoyLogger PASS
+12/11/2018 20:22:17 devpinoyLogger verifySearchResults
+12/11/2018 20:22:17 devpinoyLogger Verifying the Search Results
+12/11/2018 20:22:17 devpinoyLogger FAILError -->Unable to locate element: //*[@id='search_results']/div[3]/div[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'AZRAUSMAN', ip: '10.0.0.147', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 15568, moz:profile: C:\Users\usman_000\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: fd2f24bb-7a31-4e96-8168-c38243f7b840
+*** Element info: {Using=xpath, value=//*[@id='search_results']/div[3]/div[2]}
+12/11/2018 20:22:17 devpinoyLogger closeBrowser
+12/11/2018 20:22:17 devpinoyLogger Closing the browser
+12/11/2018 20:22:18 devpinoyLogger PASS
+12/11/2018 20:22:19 devpinoyLogger Iteration number 2
+12/11/2018 20:22:20 devpinoyLogger LaptopdisplayTest -- N
+12/11/2018 20:22:20 devpinoyLogger C Suite -- N

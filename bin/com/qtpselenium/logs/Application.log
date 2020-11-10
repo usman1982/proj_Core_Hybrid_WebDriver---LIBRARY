@@ -1,0 +1,51 @@
+04/11/2020 18:28:42 devpinoyLogger Hello
+04/11/2020 18:28:42 devpinoyLogger Properties loaded. Starting testing
+04/11/2020 18:28:42 devpinoyLogger Intialize Suite xlsx
+04/11/2020 18:28:43 devpinoyLogger Check Items -- N
+04/11/2020 18:28:43 devpinoyLogger Search Suite -- N
+04/11/2020 18:28:43 devpinoyLogger C Suite -- Y
+04/11/2020 18:28:43 devpinoyLogger ******Executing the Suite******C Suite
+04/11/2020 18:28:44 devpinoyLogger SampleTest -- Y
+04/11/2020 18:28:44 devpinoyLogger Executing the test case -> SampleTest
+04/11/2020 18:28:44 devpinoyLogger Iteration number 1
+04/11/2020 18:28:44 devpinoyLogger openBrowser
+04/11/2020 18:28:44 devpinoyLogger Opening browser
+04/11/2020 18:28:48 devpinoyLogger PASS
+04/11/2020 18:28:48 devpinoyLogger navigate
+04/11/2020 18:28:48 devpinoyLogger Navigating to URL
+04/11/2020 18:28:56 devpinoyLogger PASS
+04/11/2020 18:28:57 devpinoyLogger writeInInput
+04/11/2020 18:28:57 devpinoyLogger Writing in text box
+04/11/2020 18:28:57 devpinoyLogger PASS
+04/11/2020 18:28:57 devpinoyLogger writeInInput
+04/11/2020 18:28:57 devpinoyLogger Writing in text box
+04/11/2020 18:28:57 devpinoyLogger PASS
+04/11/2020 18:28:58 devpinoyLogger verifyTextinInput
+04/11/2020 18:28:58 devpinoyLogger Verifying the text in input box
+04/11/2020 18:28:58 devpinoyLogger PASS
+04/11/2020 18:28:58 devpinoyLogger verifyTextinInput
+04/11/2020 18:28:58 devpinoyLogger Verifying the text in input box
+04/11/2020 18:28:58 devpinoyLogger PASS
+04/11/2020 18:28:59 devpinoyLogger clickButton
+04/11/2020 18:28:59 devpinoyLogger Clicking on Button
+04/11/2020 18:28:59 devpinoyLogger PASS
+04/11/2020 18:28:59 devpinoyLogger validateLogin
+04/11/2020 18:28:59 devpinoyLogger PASS
+04/11/2020 18:29:00 devpinoyLogger closeBrowser
+04/11/2020 18:29:00 devpinoyLogger Closing the browser
+04/11/2020 18:29:01 devpinoyLogger PASS
+04/11/2020 18:29:03 devpinoyLogger Iteration number 2
+04/11/2020 18:29:05 devpinoyLogger Iteration number 3
+04/11/2020 18:29:06 devpinoyLogger Iteration number 4
+04/11/2020 18:29:07 devpinoyLogger ListTest -- N
+04/11/2020 18:29:07 devpinoyLogger ListTest1 -- Y
+04/11/2020 18:29:07 devpinoyLogger Executing the test case -> ListTest1
+04/11/2020 18:29:07 devpinoyLogger Iteration number 1
+04/11/2020 18:29:08 devpinoyLogger Iteration number 2
+04/11/2020 18:29:08 devpinoyLogger ListSelectionTest -- N
+04/11/2020 18:29:08 devpinoyLogger ListSelectionTest1 -- N
+04/11/2020 18:29:08 devpinoyLogger RadioButtonTest -- N
+04/11/2020 18:29:08 devpinoyLogger CheckBoxTest -- N
+04/11/2020 18:29:08 devpinoyLogger CheckBoxTest1 -- N
+04/11/2020 18:29:08 devpinoyLogger WaitingTest -- N
+04/11/2020 18:29:08 devpinoyLogger WaitingTest1 -- N
